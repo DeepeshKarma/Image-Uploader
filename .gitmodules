@@ -1,0 +1,3 @@
+[submodule "image-upload"] 
+        path = image-upload
+        url = https://github.com/DeepeshKarma/Image-Uploader.git
